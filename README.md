@@ -15,7 +15,7 @@
 **The "Investment Logic" Queries:**
 I designed 3 strategic SQL queries to segment the market:
 1.  **Liquidity Check:** Identified top 10 areas by transaction volume to ensure exit strategy safety.
-2.  **Asset Class Analysis:** Compared `Price_Per_SqFt` between Villas and Apartments to find capital efficiency.
+2.  **Asset Class Analysis:** Compared `Price_Per_SqFt` between Villas, Apartments, Land to find capital efficiency.
 3.  **Unit Configuration:** Analyzed sales volume across Studio, 1-Bed, and 2-Bed units.
 
 ** Key Findings from SQL Analysis:**
