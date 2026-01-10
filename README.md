@@ -16,12 +16,12 @@
 I designed 3 strategic SQL queries to segment the market:
 1.  **Liquidity Check:** Identified top 10 areas by transaction volume to ensure exit strategy safety.
 2.  **Asset Class Analysis:** Compared `Price_Per_SqFt` between Villas, Apartments, Land to find capital efficiency.
-3.  **Unit Configuration:** Analyzed sales volume across Studio, 1-Bed, and 2-Bed units.
-
+3.  **Unit Configuration:** Analyzed sales volume across Studio, 1-Bed, 2-Bed, 3-Bed units.
+4.  
 ** Key Findings from SQL Analysis:**
-* **The Liquidity King:** **1-Bedroom Apartments** dominate the market volume, outperforming Studios and 2-Beds. This represents the safest asset class for rental yields.
+* **The Liquidity King:** **1-Bedroom Apartments** dominate the market volume, outperforming Studios 2-Beds, 3-Beds . This represents the safest asset class for rental yields.
 * **Value Arbitrage:** While Villas have higher absolute prices, **Apartments (Units)** trade at a premium per square foot, indicating higher demand intensity in prime vertical communities.
-* **Top Volume Area:** [Insert Name of your #1 Area here] is currently the most active market.
+* **Top Volume Area:** "Bussiness Bay" is currently the most active market.
 
 **Tech Stack:** SQLite, Python (pandasql), Window Functions.
 
