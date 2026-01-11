@@ -25,3 +25,14 @@ I designed 3 strategic SQL queries to segment the market:
 
 **Tech Stack:** SQLite, Python (pandasql), Window Functions.
 
+## 📊 Phase 3: The Executive Dashboard (Power BI)
+**Objective:** Visualize the SQL insights to answer the client's core question: *"Where should I put 2 Million AED?"*
+
+**Key Visuals:**
+* **The Hotspot:** Bar chart showing **Business Bay** as the #1 volume area.
+* **The Value Gap:** Scatter plot revealing that **Apartments** have a higher Price Per SqFt than Villas.
+* **Liquidity Check:** Donut chart confirming **1-Bedrooms** as the dominant asset class.
+
+**Tech Stack:** Power BI, DAX Measures.
+
+
