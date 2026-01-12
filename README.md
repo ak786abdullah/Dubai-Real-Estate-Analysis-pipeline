@@ -1,6 +1,6 @@
 #  Dubai Real Estate Market Analysis (End-to-End Pipeline)
 
-![Dashboard Preview](dashboard/dubai_dashboard_final.png)
+![Dashboard Preview](Dashboard/Dashboard.png)
 
 ##  Project Overview
 This project is a full-stack data analytics simulation designed to answer a specific business question for a hypothetical investor: **"Where should I invest 2 Million AED in the Dubai Real Estate market for maximum stability and yield?"**
