@@ -67,13 +67,12 @@ Using a dataset of **100,000+ real estate transactions**, I built an end-to-end 
 │   └──Dashboard.png # Phase 3: Power BI Visualization
 ├── README.md                     # Project Documentation
 └── requirements.txt              # Python dependencies
-
+   ```
 ##  How to Run This Project
 
 1. **Clone the Repo:**
    ```bash
    git clone [https://github.com/ak786abdullah/Dubai-Real-Estate-Analysis-pipeline.git](https://github.com/ak786abdullah/Dubai-Real-Estate-Analysis-pipeline.git)
-   ```
 
 2. **Install Dependencies:**
    ```bash
