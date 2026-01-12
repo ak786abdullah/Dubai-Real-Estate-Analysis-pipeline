@@ -67,3 +67,22 @@ Using a dataset of **100,000+ real estate transactions**, I built an end-to-end 
 │   └── dubai_dashboard_final.png # Phase 3: Power BI Visualization
 ├── README.md                     # Project Documentation
 └── requirements.txt              # Python dependencies
+
+How to Run This Project
+
+1. Clone the Repo:
+git clone [https://github.com/ak786abdullah/Dubai-Real-Estate-Analysis-pipeline.git](https://github.com/ak786abdullah/Dubai-Real-Estate-Analysis-pipeline.git)
+
+2. Install Dependencies:
+
+pip install pandas numpy db-sqlite3
+
+3. Run the Analysis:
+​Open notebooks/data_cleaning_pipeline.ipynb to see the cleaning logic.
+​Run sql_queries/analysis_engine.py to generate the SQL insights.
+
+Author
+Muhammad ​Abdullah
+​Role: Data Analyst 
+​Tools: Python, SQL, Power BI, Excel
+​LinkedIn: [Your LinkedIn Profile Link Here]
