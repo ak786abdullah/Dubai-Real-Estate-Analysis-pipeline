@@ -1,17 +1,17 @@
-# 🏙️ Dubai Real Estate Market Analysis (End-to-End Pipeline)
+#  Dubai Real Estate Market Analysis (End-to-End Pipeline)
 
 ![Dashboard Preview](dashboard/dubai_dashboard_final.png)
 
-## 📋 Project Overview
+##  Project Overview
 This project is a full-stack data analytics simulation designed to answer a specific business question for a hypothetical investor: **"Where should I invest 2 Million AED in the Dubai Real Estate market for maximum stability and yield?"**
 
 Using a dataset of **100,000+ real estate transactions**, I built an end-to-end pipeline—from raw data cleaning in Python to SQL-based market segmentation and final executive visualization in Power BI.
 
-> **⚠️ Data Context:** This project utilizes the 2022-2023 transaction dataset from the Dubai Land Department to demonstrate a scalable analytics workflow. The insights reflect market conditions during that period.
+> ** Data Context:** This project utilizes the 2022-2023 transaction dataset from the Dubai Land Department to demonstrate a scalable analytics workflow. The insights reflect market conditions during that period.
 
 ---
 
-## 🔍 Key Business Insights (Executive Summary)
+##  Key Business Insights (Executive Summary)
 
 ### 1. The "Liquidity King": 1-Bedroom Apartments
 * **Finding:** 1-Bedroom units significantly outperform Studios and 2-Bedroom apartments in transaction volume.
@@ -26,7 +26,7 @@ Using a dataset of **100,000+ real estate transactions**, I built an end-to-end 
 
 ---
 
-## 🛠️ Technical Workflow
+##  Technical Workflow
 
 ### Phase 1: Data Engineering (Python & Pandas)
 * **Objective:** Transform raw, messy data into a clean analytical dataset.
@@ -52,7 +52,7 @@ Using a dataset of **100,000+ real estate transactions**, I built an end-to-end 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 ├── data/
