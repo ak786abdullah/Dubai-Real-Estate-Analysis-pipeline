@@ -60,8 +60,8 @@ Using a dataset of **100,000+ real estate transactions**, I built an end-to-end 
 │   └── raw_data_sample.csv       # Sample of original data
 ├── notebooks/
 │   └── data_cleaning_pipeline.ipynb  # Phase 1: Python Cleaning Logic
-├── Sql Queries/
-│   ├── analysis_engine.py        # Phase 2: Python script running SQL queries
+├── SQL Queries/
+│   ├── analysis_engine.ipynb      # Phase 2: Python script running SQL queries
 │   └── key_metrics.sql           # Raw SQL queries used for analysis
 ├── Dashboard/
 │   └──Dashboard.png # Phase 3: Power BI Visualization
